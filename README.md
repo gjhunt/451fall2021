@@ -52,26 +52,14 @@ lecture number | date | lecture name | written notes |
 
 ## quiz problems
 
-date posted | link | due | corresponding lectures
---- | --- | --- | ---
+date posted | link | due | corresponding lectures |
+--- | --- | --- | --- |
 
 ## suggested problems
 
 see the blackboard site for solutions
 
-date posted | name |  reading| assignment | corresponding lectures
---- | --- | --- |--- | ---
-<!--8-20 | SP 1 | Leemis 1.3 | ch1: 63, 64, 69, 70, 73 | 1 
-8-27 | SP 2 | Leemis 2.1, 2.2 | ch2: 2-7, 9-11, 13 | 2-3
-9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
-9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2: 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
-9-17 | SP 5 | Leemis 3.1-3.3 | ch3: 4, 14, 22, 24, 25, 28, 34, 36, 48 | 8-9
-9-24 | SP 6 | Leemis 3.1-3.4 | ch3: 18,19,54, 74, 78, 105, 117, 133 | 10-11
-9-24 | SP 7 | Leemis 3.4, 4.1 - 4.3, 5.1-5.4 | ch3: 71, 81, 135, ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69| 12-14
-10-15 | SP 8 | Leemis 7,7.1,7.2 (univariate case only), Leemis 6,6.1 (up to conditional dists) | Leemis ch 7: 2,9,13,21,40,55,57,58,60,63, Leemis ch 6: 4, 5, 22, 24, 32, 35  | 15-16
-10-22 | SP 9 | Leemis 6,6.1,6.2,6.3 (through Ex. 6.42) | Leemis ch 6: 74, 78, 82, 17a, 20, 36, 37, 47, 48, 50, 54, 70 | 17-18
-10-29 | SP 10 | Leemis 6.3,6.4,7.1,7.2 | Leemis ch6: 60, 88, 95, Leemis ch7: 19, 22, 23, 28(a), 38, 49 | 19-20
-11-05 | SP 11 | Leemis 6.5, 7.2 | Leemis ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | 21-22-->
-
+date posted | name |  reading| assignment | corresponding lectures |
+--- | --- | --- |--- | --- |
 
 
