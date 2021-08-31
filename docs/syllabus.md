@@ -40,7 +40,7 @@ Information for the course can be found on blackboard or on [github](https://gjh
 
 Lectures are Tuesdays and Thursdays. I will post a .pdf of the lectures from each class. Attendance is not required. 
 
-A helpful addition resource are [Dr. Leemis's 451 Lecture Videos](http://www.math.wm.edu/~leemis/videos/ttc/) corresponding to the suggested text book.
+A helpful addition resource are [Dr. Leemis's 451 Lecture Videos](http://www.math.wm.edu/~leemis/videos/probability/) corresponding to the suggested text book.
 
 ## Text
 
