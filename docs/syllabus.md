@@ -32,9 +32,9 @@ Weds 9-10AM, 3:30-4:30 PM
 | midterm 2 | Tuesday November 9th (during lecture) |
 | final | Weds. December 15th, 7-10PM EST  |
 
-##Website
+## Website
 
-Information for the course can be found on blackboard or on [github](gjhunt.github.io/451fall2021)
+Information for the course can be found on blackboard or on [github](https://gjhunt.github.io/451fall2021)
 
 ##Lectures
 
@@ -51,32 +51,32 @@ The suggested text is Leemis, L.M., Probability, Second Edition, 2018, Lightning
   
 The text is not required but highly recommended. 
 
-##Office Hours
+## Office Hours
 
 Office hours will be held in person in my office Jones 111. Times will be Tues 3:30-4:30 PM and Weds 9-10AM, 3:30-4:30 PM.  Additionally, I am happy to meet by appointment, send me an email.
 
-##Weekly Quiz Problems (QPs)
+## Weekly Quiz Problems (QPs)
 
 Each week I will post a quiz problem (QP) that will be due the following Thursday at 11:59 PM EST. The quiz problem will be graded. In total, your grades on the quiz problems will account for 20% of your final grade. The lowest two QP grades will be dropped. The QPs are intended to be completed alone so do not discuss them with your peers. 
 
 QPs will be submitted on Blackboard under the appropriate assignment. No late submissions will be accepted for QPs. If they are not submitted on blackboard by 11:59 on Thursday a zero will be entered for the grade. By droppping the lowest two grades, missing one or two won't hurt your grade. If there are extenuating circumstances and you cannot submit the problem, please let me know in advance ASAP. 
 
-##Suggested Problems (SPs)
+## Suggested Problems (SPs)
 
 Additionally I will post a selection of suggested problems along with solutions. You are highly encouraged to do these problems as just doing just the one quiz problem will not be enough to prepare you for the midterm and final. I will also post suggested reading along with the suggested problems. 
 
-##Midterms
+## Midterms
 
 There will be two in-persons midterms during normal lecture times. The first midterm will be Tuesday Oct 5th and the second midterm will be Tuesday November 9th. The midterms will account for 25% of the grade each. 
 
-##Final
+## Final
 
 The final exam will be as scheduled by the registrar: Weds. December 15th, 7-10PM EST. The exam will be comprehensive. 
 
 
 ## Other
 
-###Mental and Physical Well Being
+### Mental and Physical Well Being
 
 William & Mary recognizes that students have many different responsibilities and can face challenges that make learning difficult.  There are many resources available at W&M to help students. Asking for help is a sign of courage and strength.  Please reach out to me if you or someone you know are facing problems inside or outside the classroom, and I will do my best to guide you to appropriate resources on campus.   Those resources include: 
 
@@ -86,7 +86,7 @@ William & Mary recognizes that students have many different responsibilities and
 
 - For other additional support or resources, please contact the Dean of Students by submitting a care report (757-221-2510) or by email at deanofstudents@wm.edu [https://www.wm.edu/offices/deanofstudents/services/caresupportservices/index.php](https://www.wm.edu/offices/deanofstudents/services/caresupportservices/index.php)
 
-###Students Accessibility Services
+### Students Accessibility Services
 
 William &amp; Mary accommodates students with disabilities in accordance with federal laws
 and university policy. Any student who feels they may need an accommodation based
