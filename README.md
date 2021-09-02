@@ -54,6 +54,7 @@ lecture number | date | lecture name | written notes |
 
 date posted | link | due | corresponding lectures |
 --- | --- | --- | --- |
+9-2 | [QP 1](qp/qp1.pdf) | 9-9 | 1
 
 ## suggested problems
 
@@ -61,5 +62,6 @@ see the blackboard site for solutions
 
 date posted | name |  reading| assignment | corresponding lectures |
 --- | --- | --- |--- | --- |
+9-2 | SP 1 | Leemis 1.3 | ch1: 63, 64, 69, 70, 73 | 1
 
 
