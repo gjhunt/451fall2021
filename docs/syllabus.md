@@ -4,6 +4,7 @@ MATH 451/551 - 01/02
 Fall 2021
 
 9:30 am - 10:50 am, 	TR,	Jones Hall 306
+
 2:00 pm - 3:20 pm, 	TR, 	Jones Hall 306
 
 ## Instructor
