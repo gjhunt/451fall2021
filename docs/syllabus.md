@@ -1,7 +1,10 @@
-# Mathematical Statistics Syllabus
+# Probability Syllabus
 MATH 451/551 - 01/02
 
 Fall 2021
+
+9:30 am - 10:50 am, 	TR,	Jones Hall 306
+2:00 pm - 3:20 pm, 	TR, 	Jones Hall 306
 
 ## Instructor
 Dr. Hunt
@@ -36,7 +39,7 @@ Weds 9-10AM, 3:30-4:30 PM
 
 Information for the course can be found on blackboard or on [github](https://gjhunt.github.io/451fall2021)
 
-##Lectures
+## Lectures
 
 Lectures are Tuesdays and Thursdays. I will post a .pdf of the lectures from each class. Attendance is not required. 
 
