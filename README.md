@@ -9,7 +9,7 @@
 
 lecture number | date | lecture name | written notes |
 --- | ---|---|---|
-1|9-2 | basic set notation | | |
+1|9-2 | basic set notation | [lec 1(1)](lns/lec1_1.pdf) | |
 ---|---|---|---|---
 2|9-7 | axiomatic probability | | |
 3|9-9 | basic theorems | | |
