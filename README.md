@@ -7,11 +7,11 @@
 
 ## lecture notes and videos
 
-lecture number | date | lecture name | written notes |
---- | ---|---|---|
-1|9-2 | basic set notation | [lec 1 (sec 1)](lns/lec1_1.pdf) [lec 1 (sec 2)](lns/lec1_2.pdf) | |
+lecture number | date | lecture name | written notes | videos |
+--- | ---|---|---| --- | 
+1|9-2 | basic set notation | [lec 1 (sec 1)](lns/lec1_1.pdf) [lec 1 (sec 2)](lns/lec1_2.pdf) | [vid 1 (sec 1)](https://youtu.be/QJbK_ws7lyE) [vid 1 (sec 2)](https://youtu.be/JYriMSTXa9g) |
 ---|---|---|---|---
-2|9-7 | axiomatic probability | | |
+2|9-7 | axiomatic probability | [lec 2 (sec 1)](lns/lec2_1.pdf) [lec 2 (sec 2)](lns/lec2_2.pdf) | [vid 2 (sec 1)](https://youtu.be/tzIWEPyBE3A) [vid 2 (sec 2)](https://youtu.be/XNjkV_m26Hw) |
 3|9-9 | basic theorems | | |
 --- | ---|---|---|
 4|9-14 | ordered counting | | |
