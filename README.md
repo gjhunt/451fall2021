@@ -14,7 +14,7 @@ lecture number | date | lecture name | written notes | videos |
 2|9-7 | axiomatic probability | [lec 2 (sec 1)](lns/lec2_1.pdf) [lec 2 (sec 2)](lns/lec2_2.pdf) | [vid 2 (sec 1)](https://youtu.be/tzIWEPyBE3A) [vid 2 (sec 2)](https://youtu.be/XNjkV_m26Hw) |
 3|9-9 | basic theorems | [lec 3 (sec 1)](lns/lec3_1.pdf) [lec 3 (sec 2)](lns/lec3_2.pdf) | [vid 3 (sec 1)](https://youtu.be/M80RZlPdQ1A) [vid 3 (sec 2)](https://youtu.be/FHW8PhScfVo) |
 --- | ---|---|---|
-4|9-14 | ordered counting | | |
+4|9-14 | ordered counting | [lec 4 (sec 1)](lns/lec4_1.pdf) [lec 4 (sec 2)](lns/lec4_2.pdf) | [vid 4 (sec 1)](https://youtu.be/bg7q3AeKVgY) [vid 3 (sec 2)](https://youtu.be/2Hj9yGrq17k) |
 5|9-16 | unordered counting | | |
 --- | ---|---|---|
 6|9-21 | conditional probability | | |
