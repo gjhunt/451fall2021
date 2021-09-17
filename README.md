@@ -55,7 +55,8 @@ lecture number | date | lecture name | written notes | videos |
 date posted | link | due | corresponding lectures |
 --- | --- | --- | --- |
 9-2 | [QP 1](qp/qp1.pdf) | 9-9 | 1
-9-10 | [QP 2](qp/qp2.pdf) | 9-16 | 1
+9-10 | [QP 2](qp/qp2.pdf) | 9-16 | 2-3
+9-17 | [QP 3](qp/qp3.pdf) | 9-23 | 2-3
 
 ## suggested problems
 
@@ -65,4 +66,4 @@ date posted | name |  reading| assignment | corresponding lectures |
 --- | --- | --- |--- | --- |
 9-2 | SP 1 | Leemis 1.3 | ch1: 63, 64, 69, 70, 73 | 1
 9-10 | SP 2 | Leemis 2.1, 2.2 | ch2: 2-7, 9-11, 13 | 2-3
-
+9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
