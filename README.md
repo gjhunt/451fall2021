@@ -56,7 +56,7 @@ date posted | link | due | corresponding lectures |
 --- | --- | --- | --- |
 9-2 | [QP 1](qp/qp1.pdf) | 9-9 | 1
 9-10 | [QP 2](qp/qp2.pdf) | 9-16 | 2-3
-9-17 | [QP 3](qp/qp3.pdf) | 9-23 | 2-3
+9-17 | [QP 3](qp/qp3.pdf) | 9-23 | 4-5
 
 ## suggested problems
 
