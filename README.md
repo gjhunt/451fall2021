@@ -17,8 +17,8 @@ lecture number | date | lecture name | written notes | videos |
 4|9-14 | ordered counting | [lec 4 (sec 1)](lns/lec4_1.pdf) [lec 4 (sec 2)](lns/lec4_2.pdf) | [vid 4 (sec 1)](https://youtu.be/bg7q3AeKVgY) [vid 4 (sec 2)](https://youtu.be/2Hj9yGrq17k) |
 5|9-16 | unordered counting | [lec 5 (sec 1)](lns/lec5_1.pdf) [lec 5 (sec 2)](lns/lec5_2.pdf) | [vid 5 (sec 1)](https://youtu.be/b4kV6HjdzG0) [vid 5 (sec 2)](https://youtu.be/bf8x3FrRf8U) |
 --- | ---|---|---|
-6|9-21 | conditional probability | | |
-7|9-23 | independence | |
+6|9-21 | conditional probability | [lec 6 (sec 1)](lns/lec6_1.pdf) [lec 6 (sec 2)](lns/lec6_2.pdf) | [vid 6 (sec 1)](https://youtu.be/8g6--txBIGA) [vid 6 (sec 2)](https://youtu.be/6lhwhvfYE6I) |
+7|9-23 | independence | [lec 7 (sec 1)](lns/lec7_1.pdf) [lec 7 (sec 2)](lns/lec7_2.pdf) | [vid 7 (sec 1)](https://youtu.be/K9VHT85D05A) [vid 7 (sec 2)](https://youtu.be/ZYqQLGIeUQo) |
 --- | ---|---|---|
 8|9-28 | random variables and CDFs | | |
 9|9-30 | PMFs and PDFs | | |
@@ -57,6 +57,7 @@ date posted | link | due | corresponding lectures |
 9-2 | [QP 1](qp/qp1.pdf) | 9-9 | 1
 9-10 | [QP 2](qp/qp2.pdf) | 9-16 | 2-3
 9-17 | [QP 3](qp/qp3.pdf) | 9-23 | 4-5
+9-17 | [QP 4](qp/qp4.pdf) | 9-30 | 6-7
 
 ## suggested problems
 
@@ -67,3 +68,4 @@ date posted | name |  reading| assignment | corresponding lectures |
 9-2 | SP 1 | Leemis 1.3 | ch1: 63, 64, 69, 70, 73 | 1
 9-10 | SP 2 | Leemis 2.1, 2.2 | ch2: 2-7, 9-11, 13 | 2-3
 9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
+9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2: 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
