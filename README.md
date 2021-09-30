@@ -20,8 +20,8 @@ lecture number | date | lecture name | written notes | videos |
 6|9-21 | conditional probability | [lec 6 (sec 1)](lns/lec6_1.pdf) [lec 6 (sec 2)](lns/lec6_2.pdf) | [vid 6 (sec 1)](https://youtu.be/8g6--txBIGA) [vid 6 (sec 2)](https://youtu.be/6lhwhvfYE6I) |
 7|9-23 | independence | [lec 7 (sec 1)](lns/lec7_1.pdf) [lec 7 (sec 2)](lns/lec7_2.pdf) | [vid 7 (sec 1)](https://youtu.be/K9VHT85D05A) [vid 7 (sec 2)](https://youtu.be/ZYqQLGIeUQo) |
 --- | ---|---|---|
-8|9-28 | random variables and CDFs | | |
-9|9-30 | PMFs and PDFs | | |
+8|9-28 | random variables and CDFs | [lec 8 (sec 1)](lns/lec8_1.pdf) [lec 8 (sec 2)](lns/lec8_2.pdf) | [vid 8 (sec 1)](https://youtu.be/AmiWVlocJIg) [vid 8 (sec 2)](https://youtu.be/-i2bwIi0rS0) |
+9|9-30 | PMFs and PDFs | [lec 9 (sec 1)](lns/lec9_1.pdf) [lec 9 (sec 2)](lns/lec9_2.pdf) | [vid 9 (sec 1)](https://youtu.be/1IsLacNG8OE) [vid 9 (sec 2)](https://youtu.be/aLjdRSmkEdo) |
 --- | ---|---|---|
 10|10-7 | more PMFs and PDFs | | |
 --- | ---|---|---|
