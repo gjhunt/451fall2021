@@ -23,7 +23,7 @@ lecture number | date | lecture name | written notes | videos |
 8|9-28 | random variables and CDFs | [lec 8 (sec 1)](lns/lec8_1.pdf) [lec 8 (sec 2)](lns/lec8_2.pdf) | [vid 8 (sec 1)](https://youtu.be/AmiWVlocJIg) [vid 8 (sec 2)](https://youtu.be/-i2bwIi0rS0) |
 9|9-30 | PMFs | [lec 9 (sec 1)](lns/lec9_1.pdf) [lec 9 (sec 2)](lns/lec9_2.pdf) | [vid 9 (sec 1)](https://youtu.be/1IsLacNG8OE) [vid 9 (sec 2)](https://youtu.be/aLjdRSmkEdo) |
 --- | ---|---|---|
-10|10-7 | PDFs | | |
+10|10-7 | PDFs | [lec 10 (sec 1)](lns/lec10_1.pdf) [lec 10 (sec 2)](lns/lec10_2.pdf) | [vid 10 (sec 1)](https://youtu.be/9cgjxHcdJtM) [vid 10 (sec 2)](https://youtu.be/y9m7ADahjOE) |
 --- | ---|---|---|
 11|10-12 | expectation and variance | | |
 12|10-14 | moments and mgfs | | |
@@ -59,6 +59,7 @@ date posted | link | due | corresponding lectures |
 9-17 | [QP 3](qp/qp3.pdf) | 9-23 | 4-5
 9-24 | [QP 4](qp/qp4.pdf) | 9-30 | 6-7
 10-1 | [QP 5](qp/qp5.pdf) | 10-7 | 8-9
+10-8 | [QP 6](qp/qp6.pdf) | 10-14 | 10
 
 ## suggested problems
 
@@ -71,3 +72,4 @@ date posted | name |  reading| assignment | corresponding lectures |
 9-17 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
 9-24 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2: 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
 10-1 | SP 5 | Leemis 3.1-3.3 | ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36 | 8-9
+10-1 | SP 6 | Leemis 3.1-3.3 | ch3: 18, 19, 25, 28, 48, 78a,b, 133a | 10
