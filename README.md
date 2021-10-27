@@ -30,8 +30,8 @@ lecture number | date | lecture name | written notes | videos |
 --- | ---|---|---|
 13|10-21 | mgfs and common distributions 1 | [lec 13 (sec 1)](lns/lec13_1.pdf) [lec 13 (sec 2)](lns/lec13_2.pdf) | [vid 13 (sec 1)](https://youtu.be/hq56tcB_q8M) [vid 13 (sec 2)](https://youtu.be/aXchpMTxsWw) |
 --- | ---|---|---|
-14|10-26 | common distributions 2 | | |
-15|10-28 | transformations | | |
+14|10-26 | more common distributions | [lec 14 (sec 1)](lns/lec14_1.pdf) [lec 14 (sec 2)](lns/lec14_2.pdf) | [vid 14 (sec 1)](https://youtu.be/vXAGxks4E3Q) [vid 14 (sec 2)](https://youtu.be/BARbzjB4cW4)
+15|10-28 | transformations | 
 --- | ---|---|---|
 16|11-2 | bivariate random variables | | |
 17|11-4 | bivariate expectation and conditional distributions | | |
