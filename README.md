@@ -31,23 +31,23 @@ lecture number | date | lecture name | written notes | videos |
 13|10-21 | mgfs and common distributions 1 | [lec 13 (sec 1)](lns/lec13_1.pdf) [lec 13 (sec 2)](lns/lec13_2.pdf) | [vid 13 (sec 1)](https://youtu.be/hq56tcB_q8M) [vid 13 (sec 2)](https://youtu.be/aXchpMTxsWw) |
 --- | ---|---|---|
 14|10-26 | more common distributions | [lec 14 (sec 1)](lns/lec14_1.pdf) [lec 14 (sec 2)](lns/lec14_2.pdf) | [vid 14 (sec 1)](https://youtu.be/vXAGxks4E3Q) [vid 14 (sec 2)](https://youtu.be/BARbzjB4cW4)
-15|10-28 | transformations | 
+15|10-28 | even more common distributions | [lec 15 (sec 1)](lns/lec15_1.pdf) [lec 15 (sec 2)](lns/lec15_2.pdf) | [vid 15 (sec 1)](https://youtu.be/sn81PJP-0OQ) [vid 15 (sec 2)](https://youtu.be/yFpMgW1qJG8)
 --- | ---|---|---|
-16|11-2 | bivariate random variables | | |
-17|11-4 | bivariate expectation and conditional distributions | | |
+16|11-2 | transformations | | |
+17|11-4 | bivariate random variables | | |
 --- | ---|---|---|
-18|11-11 | conditional expectation and independence | | |
+18|11-11 | bivariate expectation and conditional distributions | | |
 --- | ---|---|---|
-19|11-16 | iterated expectation, mv normal, bivariate transformations | | |
-20|11-18 | more bivariate transformations | | |
+19|11-16 | conditional expectation and independence | | |
+20|11-18 | iterated expectation, mv normal, bivariate transformations | | |
 --- | ---|---|---|
-21|11-23 | multivariate random variables | | |
+21|11-23 | more bivariate transformations | | |
 --- | ---|---|---|
-22|11-30 | random samples and order statistics | | |
-23|12-2 | inequalities and convergence | | |
+22|11-30 | multivariate random variables | | |
+23|12-2 | random samples and order statistics | | |
 --- | ---|---|---|
-24|12-7 | central limit theorem | | |
-25|12-9 | review | | | 
+24|12-7 | inequalities and convergence | | |
+25|12-9 | central limit theorem | | | 
 
 
 ## quiz problems
