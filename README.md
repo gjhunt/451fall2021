@@ -61,7 +61,8 @@ date posted | link | due | corresponding lectures |
 10-1 | [QP 5](qp/qp5.pdf) | 10-7 | 8-9
 10-8 | [QP 6](qp/qp6.pdf) | 10-14 | 10
 10-15 | [QP 7](qp/qp7.pdf) | 10-21 | 11-12
-10-22 | [QP 8](qp/qp8.pdf) | 10-28 | 13-14
+10-22 | [QP 8](qp/qp8.pdf) | 10-28 | 13
+10-28 | [QP 9](qp/qp9.pdf) | 11-4 | 14-15
 
 ## suggested problems
 
@@ -76,4 +77,5 @@ date posted | name |  reading| assignment | corresponding lectures |
 10-1 | SP 5 | Leemis 3.1-3.3 | ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36 | 8-9
 10-8 | SP 6 | Leemis 3.1-3.3 | ch3: 18, 19, 25, 28, 48, 78a,b, 133a | 10
 10-15 | SP 7 | Leemis 3.4 | ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117 | 11-12
-10-22 | SP 8 | Leemis 3.4 | ch3: 54, 67, 71, 81, 104, 134, 135 | 12-13
+10-22 | SP 8 | Leemis 3.4 | ch3: 54, 67, 71, 81, 104, 134, 135 | 13
+10-28 | SP 9 | Leemis 4, 5 | ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | 14-15
