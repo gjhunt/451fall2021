@@ -33,8 +33,8 @@ lecture number | date | lecture name | written notes | videos |
 14|10-26 | more common distributions | [lec 14 (sec 1)](lns/lec14_1.pdf) [lec 14 (sec 2)](lns/lec14_2.pdf) | [vid 14 (sec 1)](https://youtu.be/vXAGxks4E3Q) [vid 14 (sec 2)](https://youtu.be/BARbzjB4cW4)
 15|10-28 | even more common distributions | [lec 15 (sec 1)](lns/lec15_1.pdf) [lec 15 (sec 2)](lns/lec15_2.pdf) | [vid 15 (sec 1)](https://youtu.be/sn81PJP-0OQ) [vid 15 (sec 2)](https://youtu.be/yFpMgW1qJG8)
 --- | ---|---|---|
-16|11-2 | transformations | | |
-17|11-4 | bivariate random variables | | |
+16|11-2 | transformations | [lec 16 (sec 1)](lns/lec16_1.pdf) [lec 16 (sec 2)](lns/lec16_2.pdf) | [vid 16 (sec 1)](https://youtu.be/ieWBc2gMPQU) [vid 16 (sec 2)](https://youtu.be/rdhzfejUcFc)
+17|11-4 | transformations and bivariate rvs | [lec 17 (sec 1)](lns/lec17_1.pdf) [lec 17 (sec 2)](lns/lec17_2.pdf) | [vid 17 (sec 2)](https://youtu.be/Nc8lTowcLSc)
 --- | ---|---|---|
 18|11-11 | bivariate expectation and conditional distributions | | |
 --- | ---|---|---|
