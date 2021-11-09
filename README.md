@@ -63,6 +63,7 @@ date posted | link | due | corresponding lectures |
 10-15 | [QP 7](qp/qp7.pdf) | 10-21 | 11-12
 10-22 | [QP 8](qp/qp8.pdf) | 10-28 | 13
 10-28 | [QP 9](qp/qp9.pdf) | 11-4 | 14-15
+11-9 | [QP 10](qp/qp10.pdf) | 11-16 | 16-17
 
 ## suggested problems
 
@@ -79,3 +80,5 @@ date posted | name |  reading| assignment | corresponding lectures |
 10-15 | SP 7 | Leemis 3.4 | ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117 | 11-12
 10-22 | SP 8 | Leemis 3.4 | ch3: 54, 67, 71, 81, 104, 134, 135 | 13
 10-28 | SP 9 | Leemis 4, 5 | ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | 14-15
+11-9 | SP 10 | Leemis 7,7.1,7.2 (univariate case only) | ch 7: 2,9,13,21,40,55,57,58,60,63 | 16-17
+
