@@ -36,7 +36,7 @@ lecture number | date | lecture name | written notes | videos |
 16|11-2 | transformations | [lec 16 (sec 1)](lns/lec16_1.pdf) [lec 16 (sec 2)](lns/lec16_2.pdf) | [vid 16 (sec 1)](https://youtu.be/ieWBc2gMPQU) [vid 16 (sec 2)](https://youtu.be/rdhzfejUcFc)
 17|11-4 | transformations and bivariate rvs | [lec 17 (sec 1)](lns/lec17_1.pdf) [lec 17 (sec 2)](lns/lec17_2.pdf) | [vid 17 (sec 2)](https://youtu.be/Nc8lTowcLSc)
 --- | ---|---|---|
-18|11-11 | bivariate expectation and conditional distributions | | |
+18|11-11 | bivariate expectation | [lec 18 (sec 1)](lns/lec18_1.pdf) [lec 18 (sec 2)](lns/lec18_2.pdf) | [vid 18 (sec 1)](https://youtu.be/gaLUNeuFP2g) [vid 18 (sec 2)](https://youtu.be/IVdpoE6y4Xs)
 --- | ---|---|---|
 19|11-16 | conditional expectation and independence | | |
 20|11-18 | iterated expectation, mv normal, bivariate transformations | | |
