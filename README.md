@@ -39,7 +39,7 @@ lecture number | date | lecture name | written notes | videos |
 18|11-11 | bivariate expectation | [lec 18 (sec 1)](lns/lec18_1.pdf) [lec 18 (sec 2)](lns/lec18_2.pdf) | [vid 18 (sec 1)](https://youtu.be/gaLUNeuFP2g) [vid 18 (sec 2)](https://youtu.be/IVdpoE6y4Xs)
 --- | ---|---|---|
 19|11-16 | covariance and correlation | [lec 19 (sec 1)](lns/lec19_1.pdf) [lec 19 (sec 2)](lns/lec19_2.pdf) | [vid 19 (sec 1)](https://youtu.be/IJOnG-Nkctk) [vid 19 (sec 2)](https://youtu.be/eojv5FvSPyM)
-20|11-18 | conditional expectation and independence | | |
+20|11-18 | conditional expectation and independence | [lec 20 (sec 1)](lns/lec20_1.pdf) [lec 20 (sec 2)](lns/lec20_2.pdf) | [vid 20 (sec 1)](https://youtu.be/wAbaKd3aqOU) [vid 20 (sec 2)](https://youtu.be/HmDHW_OVVNA)
 --- | ---|---|---|
 21|11-23 | iterated expectation, mv normal, bivariate transformations | | |
 --- | ---|---|---|
@@ -82,4 +82,4 @@ date posted | name |  reading| assignment | corresponding lectures |
 10-22 | SP 8 | Leemis 3.4 | ch3: 54, 67, 71, 81, 104, 134, 135 | 13
 10-28 | SP 9 | Leemis 4, 5 | ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | 14-15
 11-9 | SP 10 | Leemis 7,7.1,7.2 (univariate case only) | ch 7: 2,9,13,21,40,55,57,58,60,63 | 16-17
-11-17 | SP 11 | Leemis 6,6.1 (up to conditional dists) | Leemis ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | 17-19
+11-17 | SP 11 | Leemis 6,6.1 (up to conditional dists) | ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | 17-19
