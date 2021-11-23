@@ -41,7 +41,7 @@ lecture number | date | lecture name | written notes | videos |
 19|11-16 | covariance and correlation | [lec 19 (sec 1)](lns/lec19_1.pdf) [lec 19 (sec 2)](lns/lec19_2.pdf) | [vid 19 (sec 1)](https://youtu.be/IJOnG-Nkctk) [vid 19 (sec 2)](https://youtu.be/eojv5FvSPyM)
 20|11-18 | conditional expectation and independence | [lec 20 (sec 1)](lns/lec20_1.pdf) [lec 20 (sec 2)](lns/lec20_2.pdf) | [vid 20 (sec 1)](https://youtu.be/wAbaKd3aqOU) [vid 20 (sec 2)](https://youtu.be/HmDHW_OVVNA)
 --- | ---|---|---|
-21|11-23 | iterated expectation, mv normal, bivariate transformations | | |
+21|11-23 | iterated expectation, mv normal | [lec 22 (sec 1)](lns/lec21_1.pdf) [lec 21 (sec 2)](lns/lec21_2.pdf) | [vid 21 (sec 1)](https://youtu.be/CdJ_Qbap3z0) [vid 20 (sec 2)](https://youtu.be/oAup0qM8UT0)
 --- | ---|---|---|
 22|11-30 | more bivariate transformations | | |
 23|12-2 | multivariate random variables | | |
@@ -65,6 +65,7 @@ date posted | link | due | corresponding lectures |
 10-28 | [QP 9](qp/qp9.pdf) | 11-4 | 14-15
 11-9 | [QP 10](qp/qp10.pdf) | 11-16 | 16-17
 11-16 | [QP 11](qp/qp11.pdf) | 11-23 | 17-19
+11-23 | [QP 12](qp/qp12.pdf) | 12-02 | 20-21
 
 ## suggested problems
 
@@ -83,3 +84,4 @@ date posted | name |  reading| assignment | corresponding lectures |
 10-28 | SP 9 | Leemis 4, 5 | ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | 14-15
 11-9 | SP 10 | Leemis 7,7.1,7.2 (univariate case only) | ch 7: 2,9,13,21,40,55,57,58,60,63 | 16-17
 11-17 | SP 11 | Leemis 6,6.1 (up to conditional dists) | ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | 17-19
+11-23 | SP 12 | Leemis 6.1-6.4 | ch 6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | 19-21
