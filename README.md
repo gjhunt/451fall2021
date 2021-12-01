@@ -41,9 +41,9 @@ lecture number | date | lecture name | written notes | videos |
 19|11-16 | covariance and correlation | [lec 19 (sec 1)](lns/lec19_1.pdf) [lec 19 (sec 2)](lns/lec19_2.pdf) | [vid 19 (sec 1)](https://youtu.be/IJOnG-Nkctk) [vid 19 (sec 2)](https://youtu.be/eojv5FvSPyM)
 20|11-18 | conditional expectation and independence | [lec 20 (sec 1)](lns/lec20_1.pdf) [lec 20 (sec 2)](lns/lec20_2.pdf) | [vid 20 (sec 1)](https://youtu.be/wAbaKd3aqOU) [vid 20 (sec 2)](https://youtu.be/HmDHW_OVVNA)
 --- | ---|---|---|
-21|11-23 | iterated expectation, mv normal | [lec 22 (sec 1)](lns/lec21_1.pdf) [lec 21 (sec 2)](lns/lec21_2.pdf) | [vid 21 (sec 1)](https://youtu.be/CdJ_Qbap3z0) [vid 20 (sec 2)](https://youtu.be/oAup0qM8UT0)
+21|11-23 | iterated expectation, mv normal | [lec 21 (sec 1)](lns/lec21_1.pdf) [lec 21 (sec 2)](lns/lec21_2.pdf) | [vid 21 (sec 1)](https://youtu.be/CdJ_Qbap3z0) [vid 21 (sec 2)](https://youtu.be/oAup0qM8UT0)
 --- | ---|---|---|
-22|11-30 | more bivariate transformations | | |
+22|11-30 | more bivariate transformations | [lec 22 (sec 1)](lns/lec22_1.pdf) [lec 22 (sec 2)](lns/lec22_2.pdf) | [vid 22 (sec 1)](https://youtu.be/uTkfdNdykfE) [vid 22 (sec 2)](https://youtu.be/peDqlVf25OU)
 23|12-2 | multivariate random variables | | |
 --- | ---|---|---|
 24|12-7 | random samples and order statistics | | |
