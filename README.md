@@ -66,7 +66,7 @@ date posted | link | due | corresponding lectures |
 11-9 | [QP 10](qp/qp10.pdf) | 11-16 | 16-17
 11-16 | [QP 11](qp/qp11.pdf) | 11-23 | 17-19
 11-23 | [QP 12](qp/qp12.pdf) | 12-02 | 20-21
-12-02 | [QP 13](qp/qp13.pdf) | 12-02 | 22-23
+12-02 | [QP 13](qp/qp13.pdf) | 12-09 | 22-23
 
 ## suggested problems
 
