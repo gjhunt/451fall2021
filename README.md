@@ -47,7 +47,7 @@ lecture number | date | lecture name | written notes | videos |
 23|12-2 | multivariate random variables | [lec 23 (sec 1)](lns/lec23_1.pdf) [lec 23 (sec 2)](lns/lec23_2.pdf) | [vid 23 (sec 1)](https://youtu.be/lo-JGIeGC-0) [vid 23 (sec 2)](https://youtu.be/eeuMtlm2dQU)
 --- | ---|---|---|
 24|12-7 | random samples and order statistics | | |
-25|12-9 | inequalities and convergence | | | 
+25|12-9 | central limit theorem | | | 
 
 
 ## quiz problems
@@ -66,6 +66,7 @@ date posted | link | due | corresponding lectures |
 11-9 | [QP 10](qp/qp10.pdf) | 11-16 | 16-17
 11-16 | [QP 11](qp/qp11.pdf) | 11-23 | 17-19
 11-23 | [QP 12](qp/qp12.pdf) | 12-02 | 20-21
+12-02 | [QP 13](qp/qp13.pdf) | 12-02 | 22-23
 
 ## suggested problems
 
@@ -85,3 +86,4 @@ date posted | name |  reading| assignment | corresponding lectures |
 11-9 | SP 10 | Leemis 7,7.1,7.2 (univariate case only) | ch 7: 2,9,13,21,40,55,57,58,60,63 | 16-17
 11-17 | SP 11 | Leemis 6,6.1 (up to conditional dists) | ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | 17-19
 11-23 | SP 12 | Leemis 6.1-6.4 | ch 6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | 19-21
+12-02 | SP 13 | Leemis 6.5, 7.1,7.2 | ch7: 22, 23, 28(a), 38, 49, ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | 22-23
