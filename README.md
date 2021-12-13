@@ -46,8 +46,8 @@ lecture number | date | lecture name | written notes | videos |
 22|11-30 | more bivariate transformations | [lec 22 (sec 1)](lns/lec22_1.pdf) [lec 22 (sec 2)](lns/lec22_2.pdf) | [vid 22 (sec 1)](https://youtu.be/uTkfdNdykfE) [vid 22 (sec 2)](https://youtu.be/peDqlVf25OU)
 23|12-2 | multivariate random variables | [lec 23 (sec 1)](lns/lec23_1.pdf) [lec 23 (sec 2)](lns/lec23_2.pdf) | [vid 23 (sec 1)](https://youtu.be/lo-JGIeGC-0) [vid 23 (sec 2)](https://youtu.be/eeuMtlm2dQU)
 --- | ---|---|---|
-24|12-7 | random samples and order statistics | | |
-25|12-9 | central limit theorem | | | 
+24|12-7 | central limit theorem | [lec 24 (sec 1)](lns/lec24_1.pdf) [lec 24 (sec 2)](lns/lec24_2.pdf) | [vid 24 (sec 1)](https://youtu.be/_TIwjSKTrU4) [vid 24 (sec 2)](https://youtu.be/Ag-sj4c5dME)
+
 
 
 ## quiz problems
